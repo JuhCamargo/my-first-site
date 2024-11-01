@@ -11,17 +11,3 @@ background-image: linear-gradient(90deg, #A9C9FF 0%, #FFBBEC 100%);
 }
 
 
-ul {
-    background-color: rgb(132, 0, 255);
-    color: black;
-}
-
-ol {
-    background-color: rgb(63, 0, 211);
-    color: black;
-}
-
-li {
-    font-size: 60px;
-    gap: 28px;
-}
