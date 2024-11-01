@@ -1,10 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+}
+
+
 ul {
-    background-color: aqua;
+    background-color: rgb(132, 0, 255);
     color: black;
 }
 
 ol {
-    background-color: rgb(18, 211, 0);
+    background-color: rgb(63, 0, 211);
     color: black;
 }
 
